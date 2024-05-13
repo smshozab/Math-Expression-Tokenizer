@@ -14,6 +14,11 @@ The Mathematical Expression Analyzer is a tool designed to analyze mathematical 
 - Display of DFA diagrams
 - Display of transition tables
 
+## Example Output
+<img width="148" alt="Ouptut1" src="https://github.com/smshozab/Math-Expression-Tokenizer/assets/29998010/10f425ad-d8d7-4adc-8522-6e69b5fc1a19"> </br></br></br>
+<img width="76" alt="Ouptut3" src="https://github.com/smshozab/Math-Expression-Tokenizer/assets/29998010/7e3e8bae-f7bf-400f-932a-b9f56ca7c16a"> </br></br></br>
+<img width="416" alt="Ouptut2" src="https://github.com/smshozab/Math-Expression-Tokenizer/assets/29998010/ec68ed2e-cd51-4e50-af21-d10b82280bad"> </br></br></br>
+
 ## Getting Started
 
 To use the Mathematical Expression Analyzer, follow these steps:
