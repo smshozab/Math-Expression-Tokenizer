@@ -15,9 +15,11 @@ The Mathematical Expression Analyzer is a tool designed to analyze mathematical 
 - Display of transition tables
 
 ## Example Output
-<img width="148" alt="Ouptut1" src="https://github.com/smshozab/Math-Expression-Tokenizer/assets/29998010/10f425ad-d8d7-4adc-8522-6e69b5fc1a19"> </br></br></br>
-<img width="76" alt="Ouptut3" src="https://github.com/smshozab/Math-Expression-Tokenizer/assets/29998010/7e3e8bae-f7bf-400f-932a-b9f56ca7c16a"> </br></br></br>
-<img width="416" alt="Ouptut2" src="https://github.com/smshozab/Math-Expression-Tokenizer/assets/29998010/ec68ed2e-cd51-4e50-af21-d10b82280bad"> </br></br></br>
+<img width="855" alt="O2" src="https://github.com/smshozab/Math-Expression-Tokenizer/assets/29998010/b34794ba-0731-4867-ae0d-44bf620a36b2"> </br></br></br>
+<img width="881" alt="O3" src="https://github.com/smshozab/Math-Expression-Tokenizer/assets/29998010/0f2f9b22-dffb-4a3f-bf10-65dae6edadd6"> </br></br></br>
+<img width="893" alt="O4" src="https://github.com/smshozab/Math-Expression-Tokenizer/assets/29998010/bee80d91-4978-46e0-9b08-67c717526ec3"> </br></br></br>
+<img width="902" alt="O5" src="https://github.com/smshozab/Math-Expression-Tokenizer/assets/29998010/e17bf9fc-ac69-4c76-a29c-94fb395e51b5"> </br></br></br>
+
 
 ## Getting Started
 
